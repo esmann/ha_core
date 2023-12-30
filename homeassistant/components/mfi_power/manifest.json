@@ -1,0 +1,13 @@
+{
+  "domain": "mfi_power",
+  "name": "mfi_power",
+  "codeowners": ["@esmann"],
+  "config_flow": false,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/mfi_power",
+  "homekit": {},
+  "iot_class": "local_polling",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": []
+}
