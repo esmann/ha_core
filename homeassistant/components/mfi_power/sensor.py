@@ -217,7 +217,7 @@ class MfiPowerFactorSensor(SensorEntity):
     @property
     def native_unit_of_measurement(self):
         """Return the unit of measurement of this entity, if any."""
-        return ""
+        return None
 
     def update(self) -> None:
         """Get the latest data."""
